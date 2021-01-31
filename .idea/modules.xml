@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Redis-SpringBoot-App/demo.iml" filepath="$PROJECT_DIR$/Redis-SpringBoot-App/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-redis-App.iml" filepath="$PROJECT_DIR$/.idea/spring-redis-App.iml" />
     </modules>
   </component>
